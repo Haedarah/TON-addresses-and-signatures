@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@ton/core": "^0.56.3",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.11.2",
+    "@tonclient/core": "^1.30.0",
+    "@tonclient/lib-web": "^1.30.0",
+    "@types/axios": "^0.14.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "tonweb": "^0.0.66",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
