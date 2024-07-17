@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "@types/node": "^20.14.10"
+  },
+  "scripts": {
+    "execute": "ts-node ./addressesAndSignatures.ts"
   }
 }
